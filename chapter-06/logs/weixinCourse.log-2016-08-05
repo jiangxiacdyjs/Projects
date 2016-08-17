@@ -1,0 +1,3 @@
+[ERROR] 2016-08-05 11:29:23,017 org.liufeng.course.util.CommonUtil 获取token失败 errcode:40013 errmsg:invalid appid hint: [_yBglA0760ken1]
+[ERROR] 2016-08-05 11:50:58,827 org.liufeng.course.util.MenuUtil 创建菜单失败 errcode:48001 errmsg:api unauthorized hint: [xn.1Ya0056vr20]
+[INFO ] 2016-08-05 11:51:04,369 org.liufeng.weixin.main.MenuManager 菜单创建失败！
